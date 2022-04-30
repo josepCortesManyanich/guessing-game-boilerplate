@@ -2,7 +2,7 @@
 
 // 1. Create an array of three random numbers between 0 and 9.
 const secretNumber = [/* Your code goes here */]
-
+fdaf
 // When you are done, uncomment the following code to check the array. You might want to know the secret number while programming
 // to make sure you are doing it right. Comment the line when you are finished to fairly play the game.
 // console.log('Secret number', secretNumber);
